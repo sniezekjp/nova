@@ -60,7 +60,7 @@
 
                         <?php echo $sections['Header']; ?>
 
-                        <div class="row text-center">
+                        <div class="row text-center" style="display:none;">
                             <img class="logo" src="<?php echo get_template_directory_uri(). '/img/logo-white.png'; ?>" alt="" width="auto" height="250px" />
                         </div>
 
