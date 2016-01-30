@@ -181,7 +181,8 @@
 
                     <a target="_blank" href="http://bltshirtprinters.com/"><img src="http://bltshirtprinters.com/sites/all/themes/blt/img/logo.png" class="img-responsive" style="padding-left: 50px;margin-top: 60px;"></a>
 
-                    <a target="_blank" href="http://www.legitstats.com/index.html"><img src="http://www.legitstats.com/uploads/3/3/3/9/3339794/header_images/1382910941.jpg" class="img-responsive" style="padding: 0px 50px;margin-top: 20px;"></a>
+                    <a target="_blank" href="http://www.legitstats.com/index.html">
+                    <img src="https://pbs.twimg.com/profile_images/680865881111449600/g2pCVqWS_400x400.png" class="img-responsive" style="padding: 0px 50px;margin-top: 20px;"></a>
 
                     <a target="_blank" href="http://www.cboa.org/"><img src="http://www.cboa.org/images/websitelogo.png" class="img-responsive" style="padding: 0px 50px;margin-top: 20px;"></a>
 
