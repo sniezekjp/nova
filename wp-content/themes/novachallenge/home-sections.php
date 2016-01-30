@@ -107,7 +107,7 @@
 
                     <li>
                         <a href="#promo" data-toggle="tab"><i class="fa fa-play-circle"></i>
-                            <h5>Media <small style="visibility:hidden;opacity:0;">Gameday</small></h5>
+                            <h5>Media <small>Articles</small></h5>
                         </a>
                     </li>
                     <li>
