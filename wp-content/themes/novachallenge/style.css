@@ -70,6 +70,10 @@ h5{
     max-width: 133%; 
 }
 
+.custom-ink img {
+	padding-top: 35px;
+}
+
 @media only screen and (max-width: 500px) {
     .fairfax-all-stars{
         max-width: 100%; 
