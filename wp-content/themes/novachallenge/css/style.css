@@ -648,6 +648,9 @@ ul.li-blocks li strong {
 	display: block;
 	margin-top: 2em;
 }
+.custom-ink img {
+	padding-top: 35px;
+}
 /*================= FAQ ======================*/
 .panel-heading, .panel-title, .panel, .panel-default {
 	-webkit-border-radius: 0!important;
@@ -815,7 +818,4 @@ ul.address li:first-child i {
 	position: absolute;
 	right: 0.65em;
 	top: 0.65em;
-}
-.custom-ink img {
-	padding-top: 35px;
 }
