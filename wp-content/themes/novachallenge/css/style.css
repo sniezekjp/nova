@@ -816,3 +816,6 @@ ul.address li:first-child i {
 	right: 0.65em;
 	top: 0.65em;
 }
+.custom-ink img {
+	padding-top: 35px;
+}
