@@ -644,12 +644,12 @@ ul.li-blocks li strong {
 #partners .marlow{
 	padding: 30px 10px;
 }
+#partners .custom-ink {
+	padding-top: 35px;
+}
 .partner {
 	display: block;
 	margin-top: 2em;
-}
-.custom-ink img {
-	padding-top: 35px;
 }
 /*================= FAQ ======================*/
 .panel-heading, .panel-title, .panel, .panel-default {

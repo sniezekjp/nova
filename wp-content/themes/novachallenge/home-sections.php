@@ -187,8 +187,8 @@
                     <a target="_blank" href="http://www.cboa.org/">
                         <img src="http://www.cboa.org/images/websitelogo.png" class="img-responsive" style="padding: 0px 50px;margin-top: 20px;"></a>
 
-                    <a href="http://customink.com" target="_blank" class="custom-ink">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/partners/custom-ink.png" alt="">
+                    <a href="http://customink.com" target="_blank">
+                        <img class="custom-ink" src="<?php echo get_template_directory_uri(); ?>/img/partners/custom-ink.png" alt="">
                     </a>   
 
 
