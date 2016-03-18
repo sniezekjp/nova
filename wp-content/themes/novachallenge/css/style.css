@@ -612,6 +612,9 @@ ul.li-blocks li strong {
 	transform: translate(0px, 0px);
 }
 /*================= PARTNERS ======================*/
+#partners a {
+	min-height: 171px;
+}
 #partners a img {
 	//background-color: #ececec;
 	width: 25%;
