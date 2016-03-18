@@ -192,7 +192,7 @@
                     </a>   
 
                     <a href="http://www.vivaloudoun.com/" target="_blank">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/partners/vivaloudoun.png" alt="" class="viva-loudon">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/partners/vivaloudoun.jpg" alt="" class="viva-loudon">
                     </a>
 
 
