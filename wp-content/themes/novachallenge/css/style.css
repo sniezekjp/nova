@@ -652,7 +652,7 @@ ul.li-blocks li strong {
 .partner {
 	margin-top: 2em;
 }
-.partners {
+.partner {
 	display: flex;
     flex-wrap: wrap;
     align-items: center;
