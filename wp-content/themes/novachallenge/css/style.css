@@ -612,11 +612,6 @@ ul.li-blocks li strong {
 	transform: translate(0px, 0px);
 }
 /*================= PARTNERS ======================*/
-#partners {
-	display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-}
 #partners a {
 	min-height: 171px;
 	width: 25%;
@@ -655,8 +650,12 @@ ul.li-blocks li strong {
 	padding-top: 35px;
 }
 .partner {
-	display: block;
 	margin-top: 2em;
+}
+.partners {
+	display: flex;
+    flex-wrap: wrap;
+    align-items: center;
 }
 /*================= FAQ ======================*/
 .panel-heading, .panel-title, .panel, .panel-default {
