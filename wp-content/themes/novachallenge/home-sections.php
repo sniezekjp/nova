@@ -163,40 +163,7 @@
     <section id="partners" class="page-block">
         <div class="container">
             <div class="section">
-                <header class="page-head">
-                    <h2>Sponsors</h2>
-                    <p class="text-muted">A big thanks to all our Sponsors!</p>
-                </header>
-                <article>
-                </article>
-                <div class="partner clearfix">
-
-                    <a target="_blank" href="http://evolutionbasketball.com" title="Evolution Basketball Training"> <img class="img-responsive evolution" src="<?php echo get_template_directory_uri(); ?>/img/partners/evolution.jpg" alt="Partner Brand" /> </a>
-
-                    <a target="_blank" href="http://novacavaliers.com" title="NOVA Cavaliers"> <img class="img-responsive cavs" src="<?php echo get_template_directory_uri(); ?>/img/partners/novacavs.png" alt="Partner Brand" /> </a>
-
-                    <a target="_blank" href="http://marlowsports.com" title="Marlow Sports"> <img class="img-responsive marlow" src="<?php echo get_template_directory_uri(); ?>/img/partners/marlow.png" alt="Partner Brand" /> </a>
-
-                    <a target="_blank" href="http://www.vagroundcovers.com/" title="Virginia Ground Covers"> <img class="img-responsive ground-covers" src="<?php echo get_template_directory_uri(); ?>/img/partners/va-ground-covers.png" alt="Partner Brand" /> </a>
-
-                    <a target="_blank" href="http://bltshirtprinters.com/"><img src="http://bltshirtprinters.com/sites/all/themes/blt/img/logo.png" class="img-responsive" style="padding-left: 50px;margin-top: 60px;"></a>
-
-                    <a target="_blank" href="http://www.legitstats.com/index.html">
-                        <img src="https://pbs.twimg.com/profile_images/680865881111449600/g2pCVqWS_400x400.png" class="img-responsive" style="padding: 0px 50px;margin-top: 20px;"></a>
-
-                    <a target="_blank" href="http://www.cboa.org/">
-                        <img src="http://www.cboa.org/images/websitelogo.png" class="img-responsive" style="padding: 0px 50px;margin-top: 20px;"></a>
-
-                    <a href="http://customink.com" target="_blank">
-                        <img class="custom-ink" src="<?php echo get_template_directory_uri(); ?>/img/partners/custom-ink.png" alt="">
-                    </a>   
-
-                    <a href="http://www.vivaloudoun.com/" target="_blank">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/partners/vivaloudoun.jpg" alt="" class="viva-loudon">
-                    </a>
-
-
-                </div>
+                <?php echo $sections['Sponsors']; ?>
             </div>
         </div>
     </section>
